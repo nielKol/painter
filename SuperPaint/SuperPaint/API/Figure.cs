@@ -8,5 +8,6 @@ namespace Paint.API
 {
     class Figure
     {
+		int x;
     }
 }
